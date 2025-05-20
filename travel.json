@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Eiffel Tower Restaurant",
+    "category": "restaurant",
+    "city": "Paris",
+    "country": "France",
+    "address": "Champ de Mars, Paris",
+    "profile": "https://destigaytions-images.s3.us-east-1.amazonaws.com/Eiffel+Tower+Restaurant.png",
+    "pictures": [
+      "https://destigaytions-images.s3.us-east-1.amazonaws.com/Eiffel+Tower+Restaurant.png",
+      "https://destigaytions-images.s3.us-east-1.amazonaws.com/Eiffel+Tower+Restaurant+2.png"
+    ],
+    "reviews": [],
+    "averageRating": 4.8,
+    "features": [
+      "Fine Dining",
+      "City View",
+      "Romantic",
+      "LGBTQ+ Friendly",
+      "Gender-Neutral Restrooms",
+      "Inclusive Staff",
+      "Safe Space",
+      "Ally Trained Team",
+      "Welcomes All Couples",
+      "Rainbow-Friendly Decor",
+      "Pride Specials",
+      "Respectful Environment"
+    ],
+    "description": "Elegant restaurant at the Eiffel Tower with stunning views. Welcoming and inclusive of the LGBTQ+ community. Staff are trained in allyship and respect. Offers gender-neutral restrooms for all guests. Celebrates Pride with themed events and menus. Known for romantic dinners for all couples. Decor reflects love and diversity. Popular among LGBTQ+ travelers. Encourages open expression without judgment. Actively supports equality and inclusion. Safe and respectful environment at all times. Featured in LGBTQ+ travel guides globally.",
+    "phoneNumber": "+33 1 23 45 67 89",
+    "email": "info@eiffelrestaurant.fr",
+    "website": "https://eiffelrestaurant.paris"
+  },
+  {
+    "name": "Burj Al Arab",
+    "category": "hotel",
+    "city": "Dubai",
+    "country": "UAE",
+    "address": "Jumeirah St, Dubai",
+    "profile": "https://destigaytions-images.s3.us-east-1.amazonaws.com/Burj+Al+Arab.png",
+    "pictures": [
+      "https://destigaytions-images.s3.us-east-1.amazonaws.com/Burj+Al+Arab.png",
+      "https://destigaytions-images.s3.us-east-1.amazonaws.com/Burj+Al+Arab+2.png"
+    ],
+    "reviews": [],
+    "averageRating": 4.9,
+    "features": [
+      "Luxury Suites",
+      "Private Beach",
+      "LGBTQ+ Friendly",
+      "Discreet Staff",
+      "Privacy Focused",
+      "Inclusive Services",
+      "Gender-Neutral Facilities",
+      "Safe Booking for All",
+      "Romantic Packages for All",
+      "Ally Recognition",
+      "Pride Promotions",
+      "Confidential Concierge"
+    ],
+    "description": "World's most luxurious hotel shaped like a sail. Offers a discreet and respectful stay for LGBTQ+ guests. Same-sex couples receive full hospitality services. Privacy and comfort are guaranteed for everyone. Pride offers and romantic packages available. Gender-neutral facilities are well-maintained. Staff trained to serve all identities equally. Ally-friendly with multilingual support. Internationally recognized for inclusivity. LGBTQ+ visitors feel safe and respected. Embraces cultural sensitivity with care. Focuses on providing a welcoming luxury experience.",
+    "phoneNumber": "+971 4 301 7777",
+    "email": "reservations@burjalarab.com",
+    "website": "https://www.jumeirah.com"
+  },
+  {
+    "name": "Central Park",
+    "category": "place",
+    "city": "New York",
+    "country": "USA",
+    "address": "Manhattan, New York, NY",
+    "profile": "https://destigaytions-images.s3.us-east-1.amazonaws.com/Central+Park.png",
+    "pictures": [
+      "https://destigaytions-images.s3.us-east-1.amazonaws.com/Central+Park.png",
+      "https://destigaytions-images.s3.us-east-1.amazonaws.com/Central+Park+2.png"
+    ],
+    "reviews": [],
+    "averageRating": 4.7,
+    "features": [
+      "Walking Trails",
+      "Lake",
+      "Nature",
+      "LGBTQ+ Events",
+      "Pride March Venue",
+      "Inclusive Spaces",
+      "Trans-Friendly Areas",
+      "Community Support",
+      "Open Expression Zones",
+      "Ally Volunteers",
+      "Safe Meetup Locations",
+      "Celebration-Friendly Grounds"
+    ],
+    "description": "Large public park in the middle of Manhattan. A safe and iconic spot for LGBTQ+ communities. Hosts the world-famous NYC Pride March annually. Known for rainbow-friendly zones and spaces. Open area for peaceful expression and celebration. Welcomes all gender identities and relationships. Popular for LGBTQ+ picnics and gatherings. Volunteers and guides support inclusivity. Promotes respect through public signs and info. LGBTQ+ performers often hold shows in summer. History of LGBTQ+ activism and pride events. Celebrates love, nature, and community diversity.",
+    "phoneNumber": "N/A",
+    "email": "info@centralparknyc.org",
+    "website": "https://www.centralparknyc.org"
+  },
+  {
+    "name": "Taj Mahal",
+    "category": "place",
+    "city": "Agra",
+    "country": "India",
+    "address": "Dharmapuri, Forest Colony, Tajganj, Agra",
+    "profile": "https://destigaytions-images.s3.us-east-1.amazonaws.com/Taj+Mahal.png",
+    "pictures": [
+      "https://destigaytions-images.s3.us-east-1.amazonaws.com/Taj+Mahal.png",
+      "https://destigaytions-images.s3.us-east-1.amazonaws.com/Taj+Mahal+2.png"
+    ],
+    "reviews": [],
+    "averageRating": 5.0,
+    "features": [
+      "Historic Site",
+      "Architecture",
+      "LGBTQ+ Inclusive",
+      "Romantic",
+      "Photography Spot",
+      "Same-Sex Friendly",
+      "Welcoming Staff",
+      "Equality Messaging",
+      "LGBTQ+ Friendly Tours",
+      "Peaceful Vibes",
+      "Cultural Respect",
+      "Pride Travel Destination"
+    ],
+    "description": "Marble mausoleum built by Mughal emperor Shah Jahan. Recognized as a symbol of love for all people. LGBTQ+ couples are welcomed without discrimination. Perfect for same-sex proposals and photoshoots. Local guides are inclusive and respectful. An architectural wonder for all identities. Known to celebrate universal love and peace. Great for romantic LGBTQ+ moments and memories. A calm and safe place for all visitors. Travel agencies often recommend it for queer travelers. Photoshoots often feature pride flags and symbols. Supports cultural and identity diversity silently but proudly.",
+    "phoneNumber": "+91 562 222 6431",
+    "email": "info@tajmahal.gov.in",
+    "website": "https://www.tajmahal.gov.in"
+  },
+  {
+    "name": "Tokyo Skytree",
+    "category": "place",
+    "city": "Tokyo",
+    "country": "Japan",
+    "address": "1 Chome-1-2 Oshiage, Sumida City, Tokyo",
+    "profile": "https://destigaytions-images.s3.us-east-1.amazonaws.com/Tokyo+Skytree.png",
+    "pictures": [
+      "https://destigaytions-images.s3.us-east-1.amazonaws.com/Tokyo+Skytree.png",
+      "https://destigaytions-images.s3.us-east-1.amazonaws.com/Tokyo+Skytree+2.png"
+    ],
+    "reviews": [],
+    "averageRating": 4.6,
+    "features": [
+      "Observation Deck",
+      "Shopping Mall",
+      "LGBTQ+ Friendly",
+      "Rainbow Events",
+      "Gender-Neutral Restrooms",
+      "Multilingual Staff",
+      "Inclusive Signage",
+      "Safe for All",
+      "Ally-Friendly",
+      "Diverse Tourist Support",
+      "Pride Decorations",
+      "Respectful Atmosphere"
+    ],
+    "description": "Tallest tower in Japan offering panoramic city views. Fully supportive of LGBTQ+ travelers and locals. Hosts rainbow-themed events during Pride season. Staff are trained in allyship and hospitality. Clear signage for gender-neutral restrooms. LGBTQ+ couples can enjoy safe romantic visits. Tour guides provide inclusive and respectful service. Known for welcoming queer tourists with care. Offers great visibility to LGBTQ+ culture in Tokyo. Decor and events promote equality and diversity. Gift shops include Pride-themed souvenirs. Frequently listed on LGBTQ+ travel blogs and apps.",
+    "phoneNumber": "+81 3-5302-3470",
+    "email": "info@tokyo-skytree.jp",
+    "website": "https://www.tokyo-skytree.jp"
+  }
+]
