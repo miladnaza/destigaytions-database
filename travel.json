@@ -32,6 +32,38 @@
     "website": "https://eiffelrestaurant.paris"
   },
   {
+  "name": "Davie Village",
+  "category": "place",
+  "city": "Vancouver",
+  "country": "Canada",
+  "address": "Davie St, Vancouver, BC",
+  "profile": "https://destigaytions-images.s3.us-east-1.amazonaws.com/davie+village.png",
+  "pictures": [
+    "https://destigaytions-images.s3.us-east-1.amazonaws.com/davie+village.png",
+    "https://destigaytions-images.s3.us-east-1.amazonaws.com/davie+village+2.png"
+  ],
+  "reviews": [],
+  "averageRating": 4.8,
+  "features": [
+    "Rainbow Crosswalks",
+    "LGBTQ+ Bars",
+    "Inclusive Events",
+    "Drag Shows",
+    "Gender-Neutral Restrooms",
+    "Community Murals",
+    "Safe for All",
+    "Ally-Friendly",
+    "Street Festivals",
+    "Cultural Hub",
+    "LGBTQ+ History Markers"
+  ],
+  "description": "Davie Village is Vancouver’s iconic LGBTQ+ district, known for its vibrant energy, rainbow crosswalks, inclusive nightlife, and strong sense of community. The area hosts pride-themed events, drag shows, and queer-friendly festivals throughout the year. From supportive bars and cafes to community art installations and gender-inclusive facilities, Davie Village is a safe and welcoming destination for queer locals and travelers alike.",
+  "phoneNumber": "",
+  "email": "",
+  "website": "https://www.tourismvancouver.com/neighbourhoods/west-end/"
+}
+,
+  {
     "name": "Burj Al Arab",
     "category": "hotel",
     "city": "Dubai",
@@ -58,11 +90,43 @@
       "Pride Promotions",
       "Confidential Concierge"
     ],
+
     "description": "World's most luxurious hotel shaped like a sail. Offers a discreet and respectful stay for LGBTQ+ guests. Same-sex couples receive full hospitality services. Privacy and comfort are guaranteed for everyone. Pride offers and romantic packages available. Gender-neutral facilities are well-maintained. Staff trained to serve all identities equally. Ally-friendly with multilingual support. Internationally recognized for inclusivity. LGBTQ+ visitors feel safe and respected. Embraces cultural sensitivity with care. Focuses on providing a welcoming luxury experience.",
     "phoneNumber": "+971 4 301 7777",
     "email": "reservations@burjalarab.com",
     "website": "https://www.jumeirah.com"
   },
+  {
+  "name": "Schöneberg – Berlin",
+  "category": "place",
+  "city": "Berlin",
+  "country": "Germany",
+  "address": "Nollendorfplatz, Schöneberg, Berlin",
+  "profile": "https://destigaytions-images.s3.us-east-1.amazonaws.com/Schöneberg+–+Berlin.png",
+  "pictures": [
+    "https://destigaytions-images.s3.us-east-1.amazonaws.com/Schöneberg+–+Berlin.png",
+    "https://destigaytions-images.s3.us-east-1.amazonaws.com/Schöneberg+–+Berlin+2.png"
+  ],
+  "reviews": [],
+  "averageRating": 4.9,
+  "features": [
+    "LGBTQ+ History",
+    "Rainbow Crosswalks",
+    "Gay Bars & Clubs",
+    "Inclusive Accommodations",
+    "Gender-Neutral Restrooms",
+    "Queer-Friendly Cafés",
+    "Pride Events",
+    "LGBTQ+ Memorials",
+    "Safe Environment",
+    "Ally-Friendly"
+  ],
+  "description": "Schöneberg is Berlin’s historic gay district and one of the most iconic LGBTQ+ neighborhoods in Europe. Known for its vibrant queer nightlife, inclusive culture, and rich LGBTQ+ history, the area is filled with bars, cafés, clubs, and landmarks such as the Memorial to Persecuted Homosexuals. Schöneberg is a safe and celebrated destination for queer travelers from around the world. It hosts Berlin Pride events and offers a welcoming atmosphere year-round.",
+  "phoneNumber": "",
+  "email": "",
+  "website": "https://www.visitberlin.de/en/schoeneberg-berlin"
+}
+,
   {
     "name": "Central Park",
     "category": "place",
