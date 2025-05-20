@@ -222,5 +222,36 @@
     "phoneNumber": "+81 3-5302-3470",
     "email": "info@tokyo-skytree.jp",
     "website": "https://www.tokyo-skytree.jp"
-  }
+  },
+  {
+  "name": "Chueca – Madrid",
+  "category": "place",
+  "city": "Madrid",
+  "country": "Spain",
+  "address": "Chueca, Centro, 28004 Madrid, Spain",
+  "profile": "https://destigaytions-images.s3.us-east-1.amazonaws.com/Chueca+–+Madrid.png",
+  "pictures": [
+    "https://destigaytions-images.s3.us-east-1.amazonaws.com/Chueca+–+Madrid.png",
+    "https://destigaytions-images.s3.us-east-1.amazonaws.com/Chueca+–+Madrid+2.png"
+  ],
+  "reviews": [],
+  "averageRating": 4.9,
+  "features": [
+    "LGBTQ+ Events",
+    "Pride Parade Central",
+    "Inclusive Nightlife",
+    "Queer-Friendly Shops",
+    "LGBTQ+ Cultural Centers",
+    "Gender-Neutral Restrooms",
+    "Safe Public Spaces",
+    "Ally-Friendly",
+    "Art & Murals",
+    "Open-Air Cafés"
+  ],
+  "description": "Chueca is Madrid’s beating heart of LGBTQ+ life and culture. This lively neighborhood is filled with pride flags, buzzing nightlife, inclusive cafés, and queer-friendly shops. It’s the epicenter of Madrid Pride, one of the largest LGBTQ+ celebrations in Europe. Chueca embraces diversity, offers gender-neutral facilities, and is celebrated for its openness, safety, and acceptance. Whether you're exploring the streets, visiting bars, or enjoying local culture, Chueca is a welcoming home for everyone.",
+  "phoneNumber": "",
+  "email": "",
+  "website": "https://www.esmadrid.com/en/barrios-madrid/chueca"
+}
+
 ]
